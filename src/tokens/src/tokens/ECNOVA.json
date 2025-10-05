@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "7jScap4a4kzaZBz4zxDigGcEGKPovruWhRixxZUmGcoM",
+  "symbol": "ECNOVA",
+  "name": "EconovaChain",
+  "decimals": 9,
+  "logoURI": "https://arweave.net/rwPR4cr_xxfk5HgC03lS_4jWLx6UWwna4GClPkvmaxU",
+  "extensions": {
+    "website": "https://ecnova.io",
+    "description": "ECNOVA is a Web3 token powering the EconovaChain ecosystem — combining automotive NFTs, DAO governance, and on-chain machine economy."
+}
