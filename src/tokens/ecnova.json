@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "7jScap4a4kzaZBz4zxDigGcEGKPovruWhRixxZUmGcoM",
+  "symbol": "ECNOVA",
+  "name": "EconovaChain",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/ECNOVA/token-list/main/assets/mainnet/7jScap4a4kzaZBz4zxDigGcEGKPovruWhRixxZUmGcoM/logo.png",
+  "tags": ["deflationary"]
+}
